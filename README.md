@@ -27,4 +27,5 @@ No, this is not really about code development. Please share your favorite places
 * [Hannekes Boom](http://www.hannekesboom.nl/) - Great location at the waterfront and great atmosphere
 
 
-
+## The Testers
+* Always testing
