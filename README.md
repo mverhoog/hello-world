@@ -15,6 +15,7 @@ No, this is not really about code development. Please share your favorite places
 
 ## Lunch
 * [Thrill Grill](http://www.thrillgrill.nl/) - Great burgers including falaffel burgers for vegatarians :hamburger:
+* EN - A great new place in amsterdam to eat Japanese traditional quisine
 
 ## Dinner
 * [Gebr. Harterink](http://www.gebr-hartering.nl/) - Prepare for a great nine course meal and a big bill at the end :wine_glass: :+1: :cry:
